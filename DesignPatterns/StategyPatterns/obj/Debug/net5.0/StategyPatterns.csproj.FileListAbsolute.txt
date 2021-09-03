@@ -1,0 +1,16 @@
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\bin\Debug\net5.0\StategyPatterns.exe
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\bin\Debug\net5.0\StategyPatterns.deps.json
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\bin\Debug\net5.0\StategyPatterns.runtimeconfig.json
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\bin\Debug\net5.0\StategyPatterns.runtimeconfig.dev.json
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\bin\Debug\net5.0\StategyPatterns.dll
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\bin\Debug\net5.0\ref\StategyPatterns.dll
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\bin\Debug\net5.0\StategyPatterns.pdb
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\obj\Debug\net5.0\StategyPatterns.csproj.AssemblyReference.cache
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\obj\Debug\net5.0\StategyPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\obj\Debug\net5.0\StategyPatterns.AssemblyInfoInputs.cache
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\obj\Debug\net5.0\StategyPatterns.AssemblyInfo.cs
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\obj\Debug\net5.0\StategyPatterns.csproj.CoreCompileInputs.cache
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\obj\Debug\net5.0\StategyPatterns.dll
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\obj\Debug\net5.0\ref\StategyPatterns.dll
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\obj\Debug\net5.0\StategyPatterns.pdb
+D:\Drive_E_Workspace\Practice\DesignPatterns\DesignPatterns\StategyPatterns\obj\Debug\net5.0\StategyPatterns.genruntimeconfig.cache
